@@ -21,11 +21,11 @@ fun ItemCard(item: ListItemsData) {
     Card(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(8.dp)
+            .padding(16.dp)
     ) {
         Row(
             modifier = Modifier
-                .padding(16.dp)
+                .padding(64.dp)
                 .fillMaxWidth(),
             verticalAlignment = Alignment.CenterVertically
         ) {
@@ -33,13 +33,13 @@ fun ItemCard(item: ListItemsData) {
                 painter = painterResource(id = item.idPic),
                 contentDescription = null,
                 modifier = Modifier
-                    .size(64.dp)
+                    .size(128.dp)
                     .padding(end = 16.dp)
             )
             Column {
                 Text(
                     text = item.title,
-                    style = MaterialTheme.typography.titleMedium
+                    style = MaterialTheme.typography.titleLarge
                 )
                 Text(
                     text = item.description,
