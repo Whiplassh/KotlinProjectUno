@@ -1,4 +1,4 @@
-package com.example.projectuno.module_3_task_1
+package com.example.projectuno.module_3.task_1
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column

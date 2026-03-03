@@ -33,9 +33,9 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.projectuno.module_3_task_1.ItemCard
-import com.example.projectuno.module_3_task_1.ListItemsData
-import com.example.projectuno.module_3_task_1.itemList
+import com.example.projectuno.module_3.task_1.ItemCard
+import com.example.projectuno.module_3.task_1.ListItemsData
+import com.example.projectuno.module_3.task_1.itemList
 import com.example.projectuno.ui.theme.ProjectUnoTheme
 
 class MainActivity : ComponentActivity() {
