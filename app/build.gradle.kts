@@ -38,6 +38,12 @@ android {
 }
 
 dependencies {
+
+    val lifecycle_version = "2.6.2" // as example
+    val activity_version = "1.7.2" // as example
+
+
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -50,6 +56,8 @@ dependencies {
     implementation(libs.androidx.compose.ui.text.google.fonts)
     implementation(libs.androidx.ui.graphics)
     implementation("androidx.compose.ui:ui-text-google-fonts:1.6.7")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version")
+    implementation ("androidx.activity:activity-ktx:$activity_version")
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
