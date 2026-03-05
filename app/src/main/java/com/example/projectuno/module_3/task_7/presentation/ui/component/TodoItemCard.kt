@@ -28,12 +28,12 @@ fun TodoItemCard(
     Card(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(8.dp)
+            .padding(top= 32.dp, start = 16.dp, end = 16.dp)
             .clickable {onClick()}
     ){
         Row(
             modifier = Modifier
-                .padding(16.dp),
+                .padding(32.dp),
             verticalAlignment = Alignment.CenterVertically
         ){
             Column(

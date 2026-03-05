@@ -29,7 +29,7 @@ fun TodoListScreen(
             item -> TodoItemCard(
                 item = item,
                 onClick = {onOpenDetails(item.id)},
-            onToggle = {onOpenDetails(item.id)}
+                onToggle = { _ -> viewModel.toggleTodo(item.id)}
             )
         }
     }
