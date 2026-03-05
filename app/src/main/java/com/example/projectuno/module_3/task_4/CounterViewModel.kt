@@ -10,6 +10,6 @@ class CounterViewModel : ViewModel() {
     val count: StateFlow<Int> = _count.asStateFlow()
 
     fun incrementCounter(){
-        _count.value +=1
+        _count.value +=789
     }
 }

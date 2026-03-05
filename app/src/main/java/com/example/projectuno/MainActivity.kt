@@ -9,6 +9,7 @@ import com.example.projectuno.module_2.MishinGlass5
 import com.example.projectuno.module_3.task_1.ListScroll
 import com.example.projectuno.module_3.task_1.itemList
 import com.example.projectuno.module_3.task_4.SaveDataScreen
+import com.example.projectuno.module_3.task_7.navigation.AppNavHost
 import com.example.projectuno.ui.theme.ProjectUnoTheme
 
 class MainActivity : ComponentActivity() {
@@ -22,7 +23,9 @@ class MainActivity : ComponentActivity() {
 //                val items = itemList
 //                ListScroll(items = items)
 
-                SaveDataScreen()
+//                SaveDataScreen()
+
+                AppNavHost()
                 }
             }
         }
