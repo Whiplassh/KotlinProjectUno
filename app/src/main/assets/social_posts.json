@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Morning Run Success",
+    "body": "Just finished my morning run! The weather is perfect today. Feeling energized and ready to tackle the day.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "title": "Kotlin Development",
+    "body": "Working on a new Kotlin project. Jetpack Compose is amazing! The declarative UI approach makes everything so much cleaner.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "title": "Beach Sunset",
+    "body": "Beautiful sunset at the beach today. The colors were absolutely stunning - oranges, pinks, and purples painting the sky.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "title": "Coffee Break",
+    "body": "Coffee and code - the perfect combination. Working on some interesting algorithms today.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "title": "Career Update",
+    "body": "Excited to announce that I'm starting a new position as Senior Android Developer! Looking forward to new challenges and opportunities.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "title": "New Family Member",
+    "body": "Just adopted this little guy from the shelter. He's already stolen my heart! Adopt don't shop.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "title": "Android 15 Discussion",
+    "body": "Thoughts on the new Android 15 features? I'm particularly excited about the improved privacy controls and the new notification system.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "title": "Hiking Adventure",
+    "body": "Weekend hiking trip was incredible! The views from the summit were breathtaking. Nature is the best therapy.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "title": "App Launch",
+    "body": "Finally launched my first app on Google Play! Check it out and let me know what you think. Feedback is always welcome!",
+    "avatarUrl": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "title": "Clean Code Review",
+    "body": "Reading 'Clean Code' again. Some lessons never get old. Every time I read it, I discover something new to apply in my work.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=10"
+  }
+]

@@ -1,5 +1,10 @@
 [
   { "id": 1, "title": "Купить молоко", "description": "2 литра, обезжиренное", "isCompleted": false },
   { "id": 2, "title": "Позвонить маме", "description": "Спросить про выходные", "isCompleted": true },
-  { "id": 3, "title": "Сделать ДЗ по Android", "description": "Clean Architecture + Compose", "isCompleted": false }
+  { "id": 3, "title": "Прочитать книгу", "description": "Прочитать книгу Сатирического Романа Игоревича", "isCompleted": true },
+  { "id": 4, "title": "Сделать ДЗ по Android", "description": "Clean Architecture + Compose", "isCompleted": false },
+  { "id": 5, "title": "Сделать Samsung проект", "description": "Написать наш многострадальный диплом", "isCompleted": false },
+  { "id": 6, "title": "Сходить в DDX", "description": "Стать качком", "isCompleted": false },
+  { "id": 7, "title": "Отдохнуть", "description": "Выпить пиво с прокопычем", "isCompleted": false },
+  { "id": 8, "title": "Learn English", "description": "Make hometask", "isCompleted": false }
 ]

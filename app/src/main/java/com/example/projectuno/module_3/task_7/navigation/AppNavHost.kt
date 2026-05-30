@@ -14,7 +14,6 @@ import com.example.projectuno.module_3.task_7.presentation.viewmodel.TodoViewMod
 
 object Routes{
     const val LIST = "list"
-    const val DETAIL = "detail"
     const val DETAIL_ROUTE = "detail/{id}"
     fun detai(id: Int) = "detail/$id"
 }

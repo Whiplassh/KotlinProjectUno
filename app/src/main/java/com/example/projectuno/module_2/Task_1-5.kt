@@ -137,7 +137,9 @@ fun Mihilo2(){
 fun Mihilo3(){
     Text(
         text = stringResource(R.string.MihilinGlass),
-        modifier = Modifier.padding(top = 48.dp).fillMaxSize(),
+        modifier = Modifier
+            .padding(top = 48.dp)
+            .fillMaxSize(),
         color = Color.Black,
         fontSize = 24.sp,
         textDecoration = TextDecoration.Underline,

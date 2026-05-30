@@ -1,0 +1,104 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "John Doe",
+    "body": "Great job! Keep it up!"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "Jane Smith",
+    "body": "Inspiring! I should start running too."
+  },
+  {
+    "postId": 2,
+    "id": 3,
+    "name": "Mike Johnson",
+    "body": "Compose is a game changer! What are you building?"
+  },
+  {
+    "postId": 2,
+    "id": 4,
+    "name": "Sarah Williams",
+    "body": "I'm learning Compose too. Any tips for beginners?"
+  },
+  {
+    "postId": 3,
+    "id": 5,
+    "name": "Tom Brown",
+    "body": "Stunning view! Where is this?"
+  },
+  {
+    "postId": 3,
+    "id": 6,
+    "name": "Lisa Davis",
+    "body": "I was there last summer! Beautiful place."
+  },
+  {
+    "postId": 3,
+    "id": 7,
+    "name": "Emma Wilson",
+    "body": "The colors in that sunset are incredible!"
+  },
+  {
+    "postId": 5,
+    "id": 8,
+    "name": "Chris Wilson",
+    "body": "Congratulations! Well deserved!"
+  },
+  {
+    "postId": 5,
+    "id": 9,
+    "name": "Amy Taylor",
+    "body": "So happy for you! You're going to do great things!"
+  },
+  {
+    "postId": 6,
+    "id": 10,
+    "name": "Paul Martinez",
+    "body": "What a cutie! What's his name?"
+  },
+  {
+    "postId": 6,
+    "id": 11,
+    "name": "Rachel Anderson",
+    "body": "Adopt don't shop! He's adorable!"
+  },
+  {
+    "postId": 7,
+    "id": 12,
+    "name": "Kevin Thomas",
+    "body": "The privacy dashboard is really well done. Finally some transparency!"
+  },
+  {
+    "postId": 7,
+    "id": 13,
+    "name": "Maria Garcia",
+    "body": "I agree! The new permission system is much clearer."
+  },
+  {
+    "postId": 9,
+    "id": 14,
+    "name": "Laura Jackson",
+    "body": "Just downloaded it! Looks promising!"
+  },
+  {
+    "postId": 9,
+    "id": 15,
+    "name": "Daniel White",
+    "body": "Congrats on the launch! I'll leave a review after trying it out."
+  },
+  {
+    "postId": 10,
+    "id": 16,
+    "name": "Michelle Harris",
+    "body": "That book changed my career. Every developer should read it!"
+  },
+  {
+    "postId": 10,
+    "id": 17,
+    "name": "Robert Clark",
+    "body": "Uncle Bob's wisdom never gets old."
+  }
+]

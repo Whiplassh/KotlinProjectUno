@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Project Uno"
 include(":app")
+include(":console")
  
